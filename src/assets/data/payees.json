@@ -1,0 +1,7 @@
+{
+    "payees" : [
+        { "pay_name": "Devidas Nair", "pay_bank": "ICICI Bank", "pay_act_no": "1234567887654321", "pay_active": true},
+        { "pay_name": "Ketan Devrukhkar", "pay_bank": "HDFC Bank", "pay_act_no": "1234567887654321", "pay_active": true},
+        { "pay_name": "Ninad Desai", "pay_bank": "State Bank of India", "pay_act_no": "1234567887654321", "pay_active": false}
+      ]
+}

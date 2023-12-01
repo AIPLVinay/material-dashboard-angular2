@@ -1,0 +1,11 @@
+{
+    "accounts" :
+     [
+      { "act_key": 0, "act_no": "1234567887654321",  "act_linked": false, "act_name": "Share Account", "act_holder_name": "Vinay Tandel", "act_balance": 500, "act_color": "primary", "act_loan": false },
+      { "act_key": 1, "act_no": "1234567887654321",  "act_linked": false, "act_name": "Salary Account", "act_holder_name": "Vinay Tandel", "act_balance": 240, "act_color": "primary", "act_loan": false },
+      { "act_key": 2, "act_no": "1234567887654321",  "act_linked": false, "act_name": "Family Account", "act_holder_name": "Vinay Tandel", "act_balance": 190, "act_color": "primary", "act_loan": false },
+      { "act_key": 3, "act_no": "1234567887654321",  "act_linked": false, "act_name": "Personal Loan", "act_holder_name": "Vinay Tandel", "act_balance": 8690, "act_color": "warning", "act_loan": true },
+      { "act_key": 4, "act_no": "1234567887654321",  "act_linked": true, "act_name": "Spouse's Account", "act_holder_name": "Vaibhavi Tandel", "act_balance": 80, "act_color": "primary", "act_loan": false },
+      { "act_key": 5, "act_no": "1234567887654321",  "act_linked": true, "act_name": "Son's Account", "act_holder_name": "Daksh Tandel", "act_balance": 25, "act_color": "primary", "act_loan": false}
+    ]
+  }

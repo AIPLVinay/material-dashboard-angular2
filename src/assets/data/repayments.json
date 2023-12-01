@@ -1,0 +1,22 @@
+{
+    "repayments": [
+      { "sch_date": "08-JAN-2023", "sch_prin": 1000, "sch_int": 75, "sch_bal": 24000 },
+      { "sch_date": "08-FEB-2023", "sch_prin": 1000, "sch_int": 74, "sch_bal": 23000 },
+      { "sch_date": "08-MAR-2023", "sch_prin": 1000, "sch_int": 73, "sch_bal": 22000 },
+      { "sch_date": "08-JAN-2023", "sch_prin": 1000, "sch_int": 75, "sch_bal": 24000 },
+      { "sch_date": "08-FEB-2023", "sch_prin": 1000, "sch_int": 74, "sch_bal": 23000 },
+      { "sch_date": "08-MAR-2023", "sch_prin": 1000, "sch_int": 73, "sch_bal": 22000 },
+      { "sch_date": "08-JAN-2023", "sch_prin": 1000, "sch_int": 75, "sch_bal": 24000 },
+      { "sch_date": "08-FEB-2023", "sch_prin": 1000, "sch_int": 74, "sch_bal": 23000 },
+      { "sch_date": "08-MAR-2023", "sch_prin": 1000, "sch_int": 73, "sch_bal": 22000 },
+      { "sch_date": "08-JAN-2023", "sch_prin": 1000, "sch_int": 75, "sch_bal": 24000 },
+      { "sch_date": "08-FEB-2023", "sch_prin": 1000, "sch_int": 74, "sch_bal": 23000 },
+      { "sch_date": "08-MAR-2023", "sch_prin": 1000, "sch_int": 73, "sch_bal": 22000 },
+      { "sch_date": "08-JAN-2023", "sch_prin": 1000, "sch_int": 75, "sch_bal": 24000 },
+      { "sch_date": "08-FEB-2023", "sch_prin": 1000, "sch_int": 74, "sch_bal": 23000 },
+      { "sch_date": "08-MAR-2023", "sch_prin": 1000, "sch_int": 73, "sch_bal": 22000 },
+      { "sch_date": "08-JAN-2023", "sch_prin": 1000, "sch_int": 75, "sch_bal": 24000 },
+      { "sch_date": "08-FEB-2023", "sch_prin": 1000, "sch_int": 74, "sch_bal": 23000 },
+      { "sch_date": "08-MAR-2023", "sch_prin": 1000, "sch_int": 73, "sch_bal": 22000 }
+    ]
+}

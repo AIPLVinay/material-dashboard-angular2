@@ -59,7 +59,6 @@ export class AdminLayoutComponent implements OnInit {
       let $sidebar_responsive = $('body > .navbar-collapse');
       let $sidebar_img_container = $sidebar.find('.sidebar-background');
 
-
       if(window_width > 767){
           if($('.fixed-plugin .dropdown').hasClass('show-dropdown')){
               $('.fixed-plugin .dropdown').addClass('open');
@@ -95,6 +94,7 @@ export class AdminLayoutComponent implements OnInit {
           if($sidebar_responsive.length != 0){
               $sidebar_responsive.attr('data-color',new_color);
           }
+
       });
 
       $('.fixed-plugin .img-holder').click(function(){

@@ -1,0 +1,9 @@
+{
+    "transactions": [
+      { "trn_date": "08-JAN-2023", "trn_act_no": "Salary Account", "trn_narration": "Cash Deposit", "trn_amount": 100, "trn_drcr": "CR" },
+      { "trn_date": "07-JAN-2023", "trn_act_no": "Family Account", "trn_narration": "ATM Cash Withdrawal", "trn_amount": 65, "trn_drcr": "DR" },
+      { "trn_date": "05-JAN-2023", "trn_act_no": "Salary Account", "trn_narration": "Loan Repayment", "trn_amount": 125, "trn_drcr": "DR" },
+      { "trn_date": "02-JAN-2023", "trn_act_no": "Salary Account", "trn_narration": "Salary Dec-22", "trn_amount": 2250, "trn_drcr": "CR" },
+      { "trn_date": "02-JAN-2023", "trn_act_no": "Salary Account", "trn_narration": "Salary Dec-22", "trn_amount": 2250, "trn_drcr": "CR" }
+    ]
+}

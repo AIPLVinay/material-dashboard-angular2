@@ -1,0 +1,8 @@
+{
+    "billers" : [
+    { "biller_icon": "water_drop", "biller_name": "Water Supply", "biller_act_no": "6747-845", "biller_active": true},
+    { "biller_icon": "electrical_services", "biller_name": "Electricity Board", "biller_act_no": "AEB-034-223", "biller_active": false},
+    { "biller_icon": "cell_tower", "biller_name": "Telecom Services", "biller_act_no": "VODA-384343", "biller_active": true},
+    { "biller_icon": "apartment", "biller_name": "Social Security Board", "biller_act_no": "123-456-789", "biller_active": true}
+  ]
+}
